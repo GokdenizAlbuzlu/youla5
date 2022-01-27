@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @youla5
+- 👋 Hi, I’m Gökdeniz ALBUZLU
 
 - 👀 I’m interested in software development, artifical intelligence and cyber security
   I’m currently computer science student in France (University of Technology Belfort-Montbéliard
